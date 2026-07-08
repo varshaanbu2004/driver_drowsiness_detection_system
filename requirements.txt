@@ -1,0 +1,5 @@
+#Requirememts for this project
+
+opencv-python
+mediapipe
+pygame
